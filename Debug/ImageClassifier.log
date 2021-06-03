@@ -1,0 +1,19 @@
+﻿  Classifier.cpp
+C:\Programe VS\OOP\ImageClassifier\Classifier.h(12,2): warning C4091: 'typedef ': ignored on left of 'image' when no variable is declared
+  DataLoader.cpp
+C:\Programe VS\OOP\ImageClassifier\Classifier.h(12,2): warning C4091: 'typedef ': ignored on left of 'image' when no variable is declared
+  KNN.cpp
+C:\Programe VS\OOP\ImageClassifier\Classifier.h(12,2): warning C4091: 'typedef ': ignored on left of 'image' when no variable is declared
+C:\Programe VS\OOP\ImageClassifier\KNN.cpp(18,21): warning C4018: '<': signed/unsigned mismatch
+C:\Programe VS\OOP\ImageClassifier\KNN.cpp(28,33): warning C4018: '<': signed/unsigned mismatch
+  Random.cpp
+C:\Programe VS\OOP\ImageClassifier\Classifier.h(12,2): warning C4091: 'typedef ': ignored on left of 'image' when no variable is declared
+C:\Programe VS\OOP\ImageClassifier\Random.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+C:\Programe VS\OOP\ImageClassifier\Classifier.h(12,2): warning C4091: 'typedef ': ignored on left of 'image' when no variable is declared
+  UI.cpp
+C:\Programe VS\OOP\ImageClassifier\Classifier.h(12,2): warning C4091: 'typedef ': ignored on left of 'image' when no variable is declared
+  icframework.cpp
+C:\Programe VS\OOP\ImageClassifier\Classifier.h(12,2): warning C4091: 'typedef ': ignored on left of 'image' when no variable is declared
+  Generating Code...
+  ImageClassifier.vcxproj -> C:\Programe VS\OOP\ImageClassifier\Debug\ImageClassifier.exe
